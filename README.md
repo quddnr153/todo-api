@@ -13,6 +13,7 @@
 
 - GET: /todos
 - GET: /todos/{:id}
+- GET: /todos/search?query={title: ignore case like}
 - POST: /todos
 
 body: 
